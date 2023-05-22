@@ -1,0 +1,111 @@
+styles.cssbody {
+    background-color: #F17C18;
+    color: #FFF;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #FF9F00;
+    padding: 20px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #FFF;
+  }
+  
+  section.hero {
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  section.hero h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  section.hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #FF9F00;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  
+  section.about {
+    padding: 80px 20px;
+    text-align: center;
+  }
+  
+  section.about h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  section.about p {
+    font-size: 18px;
+  }
+  
+  section.services {
+    padding: 80px 20px;
+    text-align: center;
+  }
+  
+  section.services h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  section.services ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    margin: 0 auto;
+    max-width: 400px;
+  }
+  
+  section.services li {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #FF9F00;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
